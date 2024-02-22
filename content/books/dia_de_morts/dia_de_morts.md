@@ -1,7 +1,7 @@
 +++
 title = 'Dia de morts'
 date = 2024-02-22T20:15:40+01:00
-draft = true
+draft = false
 +++
 
 
