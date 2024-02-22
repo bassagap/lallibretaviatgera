@@ -1,0 +1,4 @@
+baseURL = 'https://lallibretaviatgera.com/'
+languageCode = 'cat-es'
+title = 'La llibreta viatgera'
+theme = 'ananke'
